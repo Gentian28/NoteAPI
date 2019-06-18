@@ -11,8 +11,8 @@ module.exports = (router) => {
     router.get('/notes/:noteId', notes.findOne);
 
     // Update a Note with noteId
-    router.put('/notes/:noteId', notes.update);
+    // router.put('/notes/:noteId', notes.update);
 
     // Delete a Note with noteId
-    router.delete('/notes/:noteId', notes.delete);
+    // router.delete('/notes/:noteId', notes.delete);
 }

@@ -1,0 +1,4 @@
+-- Create roles for users
+-- Separate the business logic from the web/HTTP logic for notes
+-- Add email verification for new users
+-- Add approval from admin for new users(optional)
